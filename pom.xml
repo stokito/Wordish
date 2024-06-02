@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.asgteach</groupId>
     <artifactId>Wordish</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>Wordish</name>
 
@@ -12,9 +12,9 @@
         <maven.compiler.release>17</maven.compiler.release>
         <javafx.version>20</javafx.version>
         <charm.version>6.2.3</charm.version>
-        <attach.version>4.0.19-SNAPSHOT</attach.version>
+        <attach.version>4.0.20</attach.version>
         <javafx.plugin.version>0.0.8</javafx.plugin.version>
-        <gluonfx.plugin.version>1.0.20-SNAPSHOT</gluonfx.plugin.version>
+        <gluonfx.plugin.version>1.0.22</gluonfx.plugin.version>
         <gluonfx.target>host</gluonfx.target>
         <main.class>wordish/com.asgteach.WordishApp</main.class>
     </properties>
@@ -72,7 +72,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
+                <version>3.13.0</version>
             </plugin>
 
             <plugin>
