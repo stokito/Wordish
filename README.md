@@ -2,6 +2,9 @@
 
 Wordish is a JavaFX implementation based on the popular word-guessing game Wordle.
 
+See [JavaFX for Mobile Development](https://www.youtube.com/watch?v=VCJtdb28HWE)
+
+
 ## Build and Run using JVM
 
 Uses the GluonFX maven plugin
